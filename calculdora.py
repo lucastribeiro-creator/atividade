@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 Meu Primeiro Programa em Python
-Autor: [Seu Nome]
-Data: [Data de Hoje]
+Autor: Lucas Trossini Ribeiro
+Data: 12/05/2026
 Descrição: Programa básico para aprender GitHub
 """
 
@@ -24,8 +24,8 @@ def boas_vindas():
     print("   Bem-vindo ao GitHub!\n")
     
     # 2. Informações pessoais
-    nome = "[Seu Nome]"
-    turma = "[Turma]"
+    nome = "Lucas Trossini Ribeiro"
+    turma = "Turma 2°A"
     
     print("2️⃣ Sobre mim:")
     print(f"   Nome: {nome}")
